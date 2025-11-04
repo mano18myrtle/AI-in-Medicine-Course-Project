@@ -1,0 +1,11 @@
+Sample index: 2
+Predicted class idx: 3 (label: 3)
+Predicted probabilities: [0.   0.   0.26 0.74]
+
+Local explanation (feature contributions):
+ALH_um <= 0.89 : -0.002551
+5.81 < VCL_um_per_s <= 25.51 : -0.000395
+2.97 < VAP_um_per_s <= 11.80 : 0.000326
+STR_% > 59.77 : -0.000274
+5.25 < BCF_Hz <= 12.00 : -0.000108
+0.66 < VSL_um_per_s <= 4.65 : -0.000066
